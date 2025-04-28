@@ -59,7 +59,7 @@ The bot will auto-sync slash commands and get ready to meme, roast, and panic!
 |:---|:---|
 | `/siegeai [prompt]` | Ask SiegeBot anything (about Siege only!) |
 | `/operator [team]` | Get a random attacker or defender |
-| `/panicset [user] [channel]` | Set panic mode target user and channel |
+| `/panicset [user] [channel]` | Set panic mode target user and channel, this will move all people in whatever channel they are in into another target channel |
 | `/massnick [channel]` | Meme everyone's nickname for 60 seconds |
 | `/timeout [user]` | Send someone to timeout VC for 30s |
 | `/roast [user]` | Drop a spicy roast on someone |
