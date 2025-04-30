@@ -13,7 +13,7 @@ A spicy Discord bot for Rainbow Six Siege fans, packed with:
 
 1. **Clone the project**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Soderbergy/Siege-Discord-Bot.git
 cd siege-bot
 ```
 
