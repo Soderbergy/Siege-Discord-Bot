@@ -11,7 +11,8 @@ async def load_extensions():
         "cogs.panic",
         "cogs.massnick",
         "cogs.roast",
-        "cogs.timeout"
+        "cogs.timeout",
+        "cogs.siegecup"
     ]
     for ext in extensions:
         try:
